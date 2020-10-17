@@ -19,8 +19,8 @@ def read(filename):
 
 
 setup(
-    name="readme_cli",
-    version="0.1.9",
+    name="read_me_cli",
+    version="0.2.1",
     url="https://github.com/Genza999/readme_cli",
     license='MIT',
 
