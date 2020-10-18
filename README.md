@@ -3,7 +3,7 @@
 Readme_cli is a command-line tool that instantly fetches and diplays Readme files of github repositories in the command 
 line interface
 
-![Placeholder Demo](docs/readme.gif)
+![Placeholder Demo](docs/readme_cli.gif)
 
 
 ## Installation
