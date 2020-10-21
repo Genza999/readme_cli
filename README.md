@@ -1,14 +1,11 @@
-# readme_cli
+# Readme_cli
 
 Readme_cli is a command-line tool that instantly fetches and diplays Readme files of github repositories in the command 
 line interface
 
-![Placeholder Demo](docs/readme_cli.gif)
-
-
 ## Installation
 
->Requires Python 3.0 or higher.
+>Requires Python 3.0> and Pip installed.
 
 `$ pip install read-me-cli==0.2.1`
 
@@ -19,6 +16,18 @@ Run readme_cli with the url to the github repository:
 `$ readme_cli [github repository url]`
 
 This will fetch the readme.md contents of that repository and display them in the CLI.
+
+## Example
+
+In the terminal, you type the command:
+
+`$ readme_cli https://github.com/vinta/awesome-python`
+
+The results:
+
+![Placeholder Demo](docs/sss.png)
+
+Note: Scrolling up and down is done by the Up and Down Keyboard buttons.
 
 
 ## Contributing
